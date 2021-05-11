@@ -1,0 +1,15 @@
+{
+  "background_color": "green",
+  "description": "grade 8 islaam text book",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "assets/image/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "name": "އިސްލާމީ ތަރުބިއްޔަތު",
+  "short_name": "islam",
+  "start_url": "islam.html"
+}
