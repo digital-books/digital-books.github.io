@@ -1,6 +1,6 @@
 {
   "background_color": "green",
-  "description": "My github website",
+  "description": "Read free books",
   "display": "standalone",
   "icons": [
     {
@@ -9,7 +9,7 @@
       "type": "image/png"
     }
   ],
-  "name": "web-dev-10",
-  "short_name": "App",
+  "name": "digital-books",
+  "short_name": "db",
   "start_url": "index.html"
 }
